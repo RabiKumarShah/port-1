@@ -1,0 +1,25 @@
+----Footer -->
+      <section id="footer">
+        <div class="footer container">
+          <div class="brand">
+            <h1><span>R</span>aaa <span>S</span>hhh</h1>
+          </div>
+          <h2>Your Complete Web Solution</h2>
+          <div class="social-icon">
+              <div class="social-item">
+                <a href="https://www.linkedin.com/in/rksr/" target="_blank"><img src="https://img.icons8.com/bubbles/256/linkedin.png"></a>
+              </div>
+              <div class="social-item">
+                <a href="https://github.com/RabiKumarShah" target="_blank"><img src="https://img.icons8.com/bubbles/256/github.png" alt="github"></a>
+              </div>
+            <div class="social-item">
+              <a href="https://twitter.com/thenamesrally" target="_blank"><img src="https://img.icons8.com/bubbles/256/twitter-circled.png"></a>
+            </div>
+            <div class="social-item">
+              <a href="mailto:someone@example.com" target="_blank"><img src="https://img.icons8.com/bubbles/256/gmail.png"></a>
+            </div>
+          </div>
+          <p>SITE UNDER CONSTRUCTION!!!!!!!!!!!</p>
+        </div>
+      </section>
+      <!-- End Footer -->
